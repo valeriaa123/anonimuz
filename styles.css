@@ -7,10 +7,11 @@ body {
     padding: 0;
 }
 header {
-    background-color: #ff66cc;
-    color: #000;
+    font-family: 'Playfair Display', serif;
+    font-size: 48px;
     text-align: center;
-    padding: 20px 10px;
+    letter-spacing: 2px;
+}
 }
 main {
     padding: 20px;
