@@ -1,10 +1,15 @@
 
 body {
+    background-image: url('https://cdn.pixabay.com/photo/2016/11/18/17/20/stars-1837306_960_720.jpg');
     background-color: #000;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
     color: #fff;
     font-family: 'Playfair Display', serif;
     margin: 0;
     padding: 0;
+}
 }
 header {
     font-family: 'Playfair Display', serif;
